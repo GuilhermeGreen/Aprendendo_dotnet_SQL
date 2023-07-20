@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "7DRnKO7S26sXQQ2LAmi3WRc9XFueNWfjPtKaEG2uGEs=",
+  "Source": "AtividadeBackEnd",
+  "BasePath": "_content/AtividadeBackEnd",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AtividadeBackEnd\\wwwroot",
+      "Source": "AtividadeBackEnd",
+      "ContentRoot": "C:\\Users\\guilh\\OneDrive\\Área de Trabalho\\AtividadeBackEnd\\wwwroot\\",
+      "BasePath": "_content/AtividadeBackEnd",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\guilh\\OneDrive\\Área de Trabalho\\AtividadeBackEnd\\wwwroot\\index.html",
+      "SourceId": "AtividadeBackEnd",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\guilh\\OneDrive\\Área de Trabalho\\AtividadeBackEnd\\wwwroot\\",
+      "BasePath": "_content/AtividadeBackEnd",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

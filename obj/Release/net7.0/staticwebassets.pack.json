@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\guilh\\OneDrive\\Área de Trabalho\\AtividadeBackEnd\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.AtividadeBackEnd.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.build.AtividadeBackEnd.props",
+      "PackagePath": "build\\AtividadeBackEnd.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.AtividadeBackEnd.props",
+      "PackagePath": "buildMultiTargeting\\AtividadeBackEnd.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildTransitive.AtividadeBackEnd.props",
+      "PackagePath": "buildTransitive\\AtividadeBackEnd.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
